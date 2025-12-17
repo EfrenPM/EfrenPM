@@ -85,4 +85,4 @@
 
 ---------------------------------------------------------------------------------
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=radical)
