@@ -1,7 +1,13 @@
 ---------------------------------------------------------------------------------
 
 # Hi everyone 🚀
-## I am Efrén and I am currently studying DAW (Web Application Development)
+
+- I am Efrén and I am currently studying DAW (Web Application Development)
+- Passionate about:
+  - Music 🎶​
+  - Writing 📖
+  - Gaming 🎮
+  - Coding 📖
 
 ---------------------------------------------------------------------------------
 
