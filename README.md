@@ -2,12 +2,11 @@
 
 # Hi there🤘
 
+## I am Efrén and I am studying DAW (Web Application Development)
+
 ![GitHub Contribution Graph](https://github.com/EfrenPM.png?size=160)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
-
-## I am Efrén and I am studying DAW (Web Application Development)
-
 
 ![Fondo](images/fondo.gif)
 
@@ -110,7 +109,3 @@
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) TypeScript
 - ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D) Vue.js
 - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006B8F.svg?style=flat&logo=tailwindcss&logoColor=white) TailwindCSS
-
----------------------------------------------------------------------------------
-
-
