@@ -24,7 +24,8 @@
 
 ### EXPERIENCE 📜
 
-**1º DAW** 
+**1º DAW**
+<br>
 Internship at the prestigious IAC (Canary Islands Institute of Astrophysics). Repository here: *[Proyecto_IAC](https://github.com/EfrenPM/Proyecto_IAC)*
 <br>
 
