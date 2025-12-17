@@ -1,28 +1,28 @@
 ---------------------------------------------------------------------------------
 
-# Hi there 🤘
-## I am Efrén and I am currently studying DAW (Web Application Development)
+# **Hi there** 🤘
+## **I am Efrén and I am currently studying DAW (Web Application Development)**
 
 ![Fondo](images/fondo.gif)
 
 ---------------------------------------------------------------------------------
 
-## About me 🖊️
+# **ABOUT ME** 🖊️
 
-### Languages (Idioms):
+## Languages (Idioms):
 
   ![Spain](images/spain.png)
   ![UK](images/uk.png)
 
-### Passionate about:
-  - #### Music 🎶​
-  - #### Writing 📖
-  - #### Gaming 🎮
-  - #### Coding 📖
+## Passionate about:
+  - ### Music 🎶​
+  - ### Writing 📖
+  - ### Gaming 🎮
+  - ### Coding 📖
 
 ---------------------------------------------------------------------------------
 
-## 📜 EXPERIENCE
+# 📜 **EXPERIENCE**
 ## 1º DAW: Internship at the prestigious IAC (Canary Islands Institute of Astrophysics)
 
 ![Logo_iac](images/logo_iac.png)
@@ -86,6 +86,6 @@
 
 ---------------------------------------------------------------------------------
 
-## 📈 My GitHub Contributions
+# 📈 **MY GITHUB CONTRIBUTIONS**
 
 ![EfrenPM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&hide_title=true&count_private=true&hide=prs)
