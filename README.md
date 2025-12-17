@@ -107,5 +107,4 @@
 
 ---------------------------------------------------------------------------------
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=radical)
