@@ -86,12 +86,6 @@
 
 ---------------------------------------------------------------------------------
 
-#@ 📈 MY GITHUB CONTRIBUTIONS
+## 📈 GITHUB CONTRIBUTIONS & 🏆 MOST USED LANGUAGES
 
-![EfrenPM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&hide_title=true&count_private=true&hide=prs) ![EfrenPM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&langs_count=6)
-
----------------------------------------------------------------------------------
-
-## 🏆 MOST USED LANGUAGES
-
-
+![EfrenPM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&hide_title=true&count_private=true&hide=prs)      ![EfrenPM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&langs_count=6)
