@@ -85,6 +85,8 @@
 - ![Terminal](https://img.shields.io/badge/Terminal-%231DA800.svg?style=flat&logo=gnome-terminal&logoColor=white) Terminal
 - ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white) Bash
 - ![CMD](https://img.shields.io/badge/CMD-%23000000.svg?style=flat&logo=windows&logoColor=white) CMD
+- ![venv](https://img.shields.io/badge/venv-%23007ACC.svg?style=flat&logo=python&logoColor=white) Python venv
+- ![Uvicorn](https://img.shields.io/badge/Uvicorn-%23339933.svg?style=flat&logo=python&logoColor=white) Uvicorn
 
 ---------------------------------------------------------------------------------
 
