@@ -69,6 +69,8 @@
 - ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) Docker
 - ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) Nginx
 - ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white) XAMPP
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) Visual Studio Code
+- ![Notepad++](https://img.shields.io/badge/Notepad++-%2300A884.svg?style=flat&logo=notepad++&logoColor=white) Notepad++
 
 ---------------------------------------------------------------------------------
 
@@ -83,13 +85,6 @@
 
 - ![venv](https://img.shields.io/badge/venv-%23007ACC.svg?style=flat&logo=python&logoColor=white) Python venv
 - ![Uvicorn](https://img.shields.io/badge/Uvicorn-%23339933.svg?style=flat&logo=python&logoColor=white) Uvicorn
-
----------------------------------------------------------------------------------
-
-## 📝 IDES
-
-- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) Visual Studio Code
-- ![Notepad++](https://img.shields.io/badge/Notepad++-%2300A884.svg?style=flat&logo=notepad++&logoColor=white) Notepad++
 
 ---------------------------------------------------------------------------------
 
