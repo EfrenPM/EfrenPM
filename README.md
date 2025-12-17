@@ -31,11 +31,11 @@
 
 ---------------------------------------------------------------------------------
 
-# TECH STACK 🧑‍💻
+## TECH STACK 🧑‍💻
 
 --------------------------------------------------------------------------------
 
-## 🖥️ LANGUAGES
+### 🖥️ LANGUAGES
 
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) HTML
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) CSS
@@ -45,7 +45,7 @@
 
 ---------------------------------------------------------------------------------
 
-## 🛠️ FRAMEWORKS
+### 🛠️ FRAMEWORKS
 
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) Bootstrap
 - ![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white) Flask
@@ -54,7 +54,7 @@
 
 ---------------------------------------------------------------------------------
 
-## 💾 DATABASE
+### 💾 DATABASE
 
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300A2E8.svg?style=flat&logo=mysql&logoColor=white) MySQL
 - ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white) SQLite
