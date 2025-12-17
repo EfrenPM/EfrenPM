@@ -45,7 +45,7 @@
 
 ### 🛠️ FRAMEWORKS
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chart.js&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
