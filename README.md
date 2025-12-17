@@ -86,3 +86,9 @@
 ---------------------------------------------------------------------------------
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=dark)
+
+---------------------------------------------------------------------------------
+
+### 📧 CONTACT ME
+
+[![Contact Me via Gmail](https://img.shields.io/badge/Contact%20Me-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:ab1c1uk9@gmail.com)
