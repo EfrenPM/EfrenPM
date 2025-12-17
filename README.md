@@ -15,7 +15,8 @@
   ![UK](images/uk.png)
 
 #### Passionate about:
-  - *Music* 🎶​
+  - *Music* 🎶
+  - *Reading* 📖​
   - *Writing* ✍️
   - *Gaming* 🎮
   - *Coding* 💻
