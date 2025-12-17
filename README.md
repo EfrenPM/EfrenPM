@@ -34,7 +34,7 @@
 
 --------------------------------------------------------------------------------
 
-## 🖥️ LANGUAGES
+## 🖥️ LANGUAGES  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
 
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) HTML
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) CSS
