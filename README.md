@@ -1,14 +1,14 @@
 ---------------------------------------------------------------------------------
 
-# Hi everyone 🚀
+<h1>Hi everyone 🚀</h1>
 
 ---------------------------------------------------------------------------------
 
-I am Efrén and I am currently studying DAW (Web Application Development)
+<h2>I am Efrén and I am currently studying DAW (Web Application Development)</h2>
 
 ---------------------------------------------------------------------------------
 
-**1º DAW:** internship at the prestigious Canary Islands Institute of Astrophysics
+<h2>1º DAW: internship at the prestigious Canary Islands Institute of Astrophysics</h2>
 ![Logo_iac](images/logo_iac.png)
 
 ---------------------------------------------------------------------------------
