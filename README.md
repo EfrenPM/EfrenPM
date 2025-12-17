@@ -47,7 +47,6 @@
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) Bootstrap
 - ![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white) Flask
 - ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) Django
-- ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D) Vue.js
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) Node.js
 
 ---------------------------------------------------------------------------------
