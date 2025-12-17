@@ -56,7 +56,7 @@
 
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300A2E8.svg?style=flat&logo=mysql&logoColor=white) MySQL
 - ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white) SQLite
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D6.svg?style=flat&logo=microsoft-sql-server&logoColor=white) SQL Server (T-SQL)
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D6.svg?style=flat&logo=microsoft-sql-server&logoColor=white) SQL Server
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) PostgreSQL
 
 ---------------------------------------------------------------------------------
