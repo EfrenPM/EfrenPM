@@ -10,7 +10,7 @@
 ## About me 🖊️
 
 - Languages:
-  - 
+  - ![Spain](images/españa.png)
   - 
 
 - **Passionate about:**
