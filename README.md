@@ -108,3 +108,13 @@
 ---------------------------------------------------------------------------------
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=radical)
+
+## REPO DESTACADO 🌟
+
+[![Repo Stars](https://img.shields.io/github/stars/EfrenPM/Proyecto_IAC?style=social)](https://github.com/EfrenPM/Proyecto_IAC)
+
+[![Repo Forks](https://img.shields.io/github/forks/EfrenPM/Proyecto_IAC?style=social)](https://github.com/EfrenPM/Proyecto_IAC)
+
+### [Proyecto_IAC](https://github.com/EfrenPM/Proyecto_IAC)
+
+Repositorio del proyecto de Infraestructura como Código (IAC).
