@@ -94,4 +94,4 @@
 
 ## 🏆 MOST USED LANGUAGES
 
-![EfrenPM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&langs_count=6&hide=html,css)
+![EfrenPM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&langs_count=6)
