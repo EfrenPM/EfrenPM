@@ -10,8 +10,8 @@
 ## About me 🖊️
 
 - Languages:
-  - 🇪🇸 Español
-  - 🇬🇧 English
+  - ![España](https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg) Español
+  - ![Reino Unido](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_Kingdom.svg) English
 
 - **Passionate about:**
   - **Music 🎶**​
