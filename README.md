@@ -2,9 +2,9 @@
 
 # Hi there🤘
 
-## I am Efrén and I am studying DAW (Web Application Development)
+## ![GitHub Contribution Graph](https://github.com/EfrenPM.png?size=160) I am Efrén and I am studying DAW (Web Application Development)
 
-![GitHub Contribution Graph](https://github.com/EfrenPM.png?size=160)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
 
