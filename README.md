@@ -10,8 +10,9 @@
 ## About me 🖊️
 
 - Languages:
-  - ![Spain](images/spain.png)
-  - ![UK](images/uk.png)
+
+  ![Spain](images/spain.png)
+  ![UK](images/uk.png)
 
 - **Passionate about:**
   - **Music 🎶**​
