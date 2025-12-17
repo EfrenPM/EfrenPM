@@ -9,13 +9,13 @@
 
 ## About me 🖊️
 
-**Languages:**
+### Languages
 
   ![Spain](images/spain.png)
   ![UK](images/uk.png)
 
-**Passionate about:**
-  - **Music 🎶**​
+### Passionate about:
+  - #### Music 🎶​
   - **Writing 📖**
   - **Gaming 🎮**
   - **Coding 📖**
