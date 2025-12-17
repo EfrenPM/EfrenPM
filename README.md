@@ -85,6 +85,14 @@
 - ![Uvicorn](https://img.shields.io/badge/Uvicorn-%23339933.svg?style=flat&logo=python&logoColor=white) Uvicorn
 
 ---------------------------------------------------------------------------------
+
+## 📝 IDES
+
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) Visual Studio Code
+- ![Notepad++](https://img.shields.io/badge/Notepad++-%2300A884.svg?style=flat&logo=notepad++&logoColor=white) Notepad++
+
+---------------------------------------------------------------------------------
+
 ## 🔧 EXTRAS
 
 - ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) Markdown
