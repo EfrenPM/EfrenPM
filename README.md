@@ -57,45 +57,31 @@
 
 ### ⚙️ TECHS & TOOLS
 
-- ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) Git
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) GitHub
-- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) Visual Studio Code
-- ![WordPress](https://img.shields.io/badge/WordPress-%23192F6B.svg?style=flat&logo=wordpress&logoColor=white) WordPress
-- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) Docker
-- ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) Nginx
-- ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white) XAMPP
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23192F6B.svg?style=flat&logo=wordpress&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white) 
 
 ---------------------------------------------------------------------------------
 
 ### 🖧 OPERATING SYSTEMS
 
-- ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) Linux
-- ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) Windows
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
 ### 🧪 VIRTUAL ENVIROMENTS
 
-- ![venv](https://img.shields.io/badge/venv-%23007ACC.svg?style=flat&logo=python&logoColor=white) Python venv
-- ![Uvicorn](https://img.shields.io/badge/Uvicorn-%23339933.svg?style=flat&logo=python&logoColor=white) Uvicorn
+![venv](https://img.shields.io/badge/venv-%23007ACC.svg?style=flat&logo=python&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-%23339933.svg?style=flat&logo=python&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
 ### 🔧 EXTRAS
 
-- ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) Markdown
-- ![XML](https://img.shields.io/badge/XML-%23FF0000.svg?style=flat&logo=xml&logoColor=white) XML
-- ![Terminal](https://img.shields.io/badge/Terminal-%231DA800.svg?style=flat&logo=gnome-terminal&logoColor=white) Terminal
-- ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white) Bash
-- ![CMD](https://img.shields.io/badge/CMD-%23000000.svg?style=flat&logo=windows&logoColor=white) CMD
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![XML](https://img.shields.io/badge/XML-%23FF0000.svg?style=flat&logo=xml&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-%231DA800.svg?style=flat&logo=gnome-terminal&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white) ![CMD](https://img.shields.io/badge/CMD-%23000000.svg?style=flat&logo=windows&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
 ### 🚀 CURRENTLY LEARNING
 
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) TypeScript
-- ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D) Vue.js
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006B8F.svg?style=flat&logo=tailwindcss&logoColor=white) TailwindCSS
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006B8F.svg?style=flat&logo=tailwindcss&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
