@@ -1,5 +1,3 @@
----------------------------------------------------------------------------------
-
 ### Hi there🤘
 #### I am Efrén and I am studying DAW (Web Application Development).
 
