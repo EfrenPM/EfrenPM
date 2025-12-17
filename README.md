@@ -84,6 +84,7 @@
 - ![XML](https://img.shields.io/badge/XML-%23FF0000.svg?style=flat&logo=xml&logoColor=white) XML
 - ![Terminal](https://img.shields.io/badge/Terminal-%231DA800.svg?style=flat&logo=gnome-terminal&logoColor=white) Terminal
 - ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white) Bash
+- ![CMD](https://img.shields.io/badge/CMD-%23000000.svg?style=flat&logo=windows&logoColor=white) CMD
 
 ---------------------------------------------------------------------------------
 
