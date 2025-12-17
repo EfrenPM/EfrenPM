@@ -26,9 +26,10 @@
 
 ## 1º DAW: Internship at the prestigious IAC (Canary Islands Institute of Astrophysics)
 
-### [Proyecto_IAC](https://github.com/EfrenPM/Proyecto_IAC)
-
 ![Logo_iac](images/logo_iac.png)
+
+## Repository 🌟 
+### [Proyecto_IAC](https://github.com/EfrenPM/Proyecto_IAC)
 
 ---------------------------------------------------------------------------------
 
