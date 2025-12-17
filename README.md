@@ -10,8 +10,8 @@
 ## About me 🖊️
 
 - Languages:
-  - 🇪🇸
-  - 🇬🇧
+  - 🇪🇸 Español
+  - 🇬🇧 English
 
 - **Passionate about:**
   - **Music 🎶**​
