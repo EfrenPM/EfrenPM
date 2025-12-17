@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------
 
 # Hi there🤘
-## I am Efrén and I am currently studying DAW (Web Application Development)
+## I am Efrén and I am studying DAW (Web Application Development)
 
 ![Fondo](images/fondo.gif)
 
