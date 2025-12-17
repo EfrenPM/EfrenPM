@@ -2,6 +2,10 @@
 
 # Hi everyone 🚀
 
+---------------------------------------------------------------------------------
+
+## About me 🖊️:
+
 - I am Efrén and I am currently studying DAW (Web Application Development)
 - Passionate about:
   - Music 🎶​
