@@ -4,11 +4,11 @@
 
 ---------------------------------------------------------------------------------
 
-## I am Efrén and I am currently studying DAW (Web Application Development)
+I am Efrén and I am currently studying DAW (Web Application Development)
 
 ---------------------------------------------------------------------------------
 
-## 1º DAW: internship at the prestigious Canary Islands Institute of Astrophysics
+**1º DAW:** internship at the prestigious Canary Islands Institute of Astrophysics
 ![Logo_iac](images/logo_iac.png)
 
 ---------------------------------------------------------------------------------
