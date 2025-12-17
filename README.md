@@ -22,7 +22,7 @@
 
 ---------------------------------------------------------------------------------
 
-## 1º DAW: Internship at the prestigious Canary Islands Institute of Astrophysics
+## 1º DAW: Internship at the prestigious IAC (Canary Islands Institute of Astrophysics)
 
 ![Logo_iac](images/logo_iac.png)
 
