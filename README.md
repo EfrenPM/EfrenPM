@@ -29,7 +29,7 @@
 ![Logo_iac](images/logo_iac.png)
 
 ## Repository 🌟 
-### [Proyecto_IAC](https://github.com/EfrenPM/Proyecto_IAC)
+- ### [Proyecto_IAC](https://github.com/EfrenPM/Proyecto_IAC)
 
 ---------------------------------------------------------------------------------
 
