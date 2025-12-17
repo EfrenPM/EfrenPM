@@ -76,6 +76,8 @@
 - ![XML](https://img.shields.io/badge/XML-%23FF0000.svg?style=flat&logo=xml&logoColor=white) XML
 - ![Terminal](https://img.shields.io/badge/Terminal-%231DA800.svg?style=flat&logo=gnome-terminal&logoColor=white) Terminal
 - ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white) Bash
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) Linux
+- ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) Windows
 
 ---------------------------------------------------------------------------------
 
