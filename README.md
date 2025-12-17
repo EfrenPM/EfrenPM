@@ -16,7 +16,7 @@
 
 #### Passionate about:
   - *Music* 🎶​
-  - *Writing* 📖
+  - *Writing* ✍️
   - *Gaming* 🎮
   - *Coding* 💻
 
