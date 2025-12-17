@@ -59,6 +59,7 @@
 - ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white) SQLite
 - ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D6.svg?style=flat&logo=microsoft-sql-server&logoColor=white) SQL Server
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) PostgreSQL
+- ![pgAdmin](https://img.shields.io/badge/pgAdmin-%230091CE.svg?style=flat&logo=postgresql&logoColor=white) pgAdmin
 
 ---------------------------------------------------------------------------------
 
@@ -104,4 +105,3 @@
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) TypeScript
 - ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D) Vue.js
 - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006B8F.svg?style=flat&logo=tailwindcss&logoColor=white) TailwindCSS
-- ![pgAdmin](https://img.shields.io/badge/pgAdmin-%230091CE.svg?style=flat&logo=postgresql&logoColor=white) pgAdmin
