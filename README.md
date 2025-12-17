@@ -14,7 +14,7 @@
   ![Spain](images/spain.png)
   ![UK](images/uk.png)
 
-#### <u>Passionate about:</u>
+#### Passionate about:
   - *Music* 🎶​
   - *Writing* 📖
   - *Gaming* 🎮
