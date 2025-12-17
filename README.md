@@ -1,24 +1,24 @@
 ---------------------------------------------------------------------------------
 
-# Hi there🤘
-## I am Efrén and I am studying DAW (Web Application Development)
+### Hi there🤘
+#### I am Efrén and I am studying DAW (Web Application Development)
 
 ![Fondo](images/fondo.gif)
 
 ---------------------------------------------------------------------------------
 
-# ABOUT ME 🖊️
+### ABOUT ME 🖊️
 
-### Languages (Idioms):
+#### Languages (Idioms):
 
   ![Spain](images/spain.png)
   ![UK](images/uk.png)
 
-### Passionate about:
-  - ### Music 🎶​
-  - ### Writing 📖
-  - ### Gaming 🎮
-  - ### Coding 📖
+#### Passionate about:
+  - ##### Music 🎶​
+  - ##### Writing 📖
+  - ##### Gaming 🎮
+  - ##### Coding 📖
 
 ---------------------------------------------------------------------------------
 
