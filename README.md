@@ -67,11 +67,11 @@
 
 - ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) Git
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) GitHub
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) Visual Studio Code
 - ![WordPress](https://img.shields.io/badge/WordPress-%23192F6B.svg?style=flat&logo=wordpress&logoColor=white) WordPress
 - ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) Docker
 - ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) Nginx
 - ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white) XAMPP
-- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) Visual Studio Code
 
 ---------------------------------------------------------------------------------
 
