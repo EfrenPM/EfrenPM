@@ -9,12 +9,12 @@
 
 ## About me 🖊️
 
-- Languages:
+**Languages:**
 
   ![Spain](images/spain.png)
   ![UK](images/uk.png)
 
-- **Passionate about:**
+**Passionate about:**
   - **Music 🎶**​
   - **Writing 📖**
   - **Gaming 🎮**
