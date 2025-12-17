@@ -42,8 +42,6 @@
 - ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) Python
 - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) PHP
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
-
 ---------------------------------------------------------------------------------
 
 ## 🛠️ FRAMEWORKS
@@ -109,4 +107,5 @@
 
 ---------------------------------------------------------------------------------
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EfrenPM&show_icons=true&theme=radical)
