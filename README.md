@@ -45,20 +45,13 @@
 
 ### 🛠️ FRAMEWORKS
 
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) Bootstrap
-- ![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white) Flask
-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) Django
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) Node.js
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
 ### 💾 DATABASE
 
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300A2E8.svg?style=flat&logo=mysql&logoColor=white) MySQL
-- ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white) SQLite
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D6.svg?style=flat&logo=microsoft-sql-server&logoColor=white) SQL Server
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) PostgreSQL
-- ![pgAdmin](https://img.shields.io/badge/pgAdmin-%230091CE.svg?style=flat&logo=postgresql&logoColor=white) pgAdmin
+![MySQL](https://img.shields.io/badge/MySQL-%2300A2E8.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D6.svg?style=flat&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![pgAdmin](https://img.shields.io/badge/pgAdmin-%230091CE.svg?style=flat&logo=postgresql&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
