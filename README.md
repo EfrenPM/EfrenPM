@@ -9,7 +9,7 @@
 
 ## About me 🖊️
 
-### Languages
+### Languages (Idioms):
 
   ![Spain](images/spain.png)
   ![UK](images/uk.png)
