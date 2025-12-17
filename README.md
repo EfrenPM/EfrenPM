@@ -64,6 +64,7 @@
 
 - ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) Git
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) GitHub
+- ![WordPress](https://img.shields.io/badge/WordPress-%23192F6B.svg?style=flat&logo=wordpress&logoColor=white) WordPress
 - ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) Docker
 - ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) Nginx
 - ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white) XAMPP
@@ -86,4 +87,8 @@
 
 ---------------------------------------------------------------------------------
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EfrenPM&theme=dark&hide_border=true)
+## 🚀 CURRENTLY LEARNING
+
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) TypeScript
+- ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D) Vue.js
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006B8F.svg?style=flat&logo=tailwindcss&logoColor=white) TailwindCSS
