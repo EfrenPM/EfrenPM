@@ -9,12 +9,12 @@
 
 # ABOUT ME 🖊️
 
-## Languages (Idioms):
+### Languages (Idioms):
 
   ![Spain](images/spain.png)
   ![UK](images/uk.png)
 
-## Passionate about:
+### Passionate about:
   - ### Music 🎶​
   - ### Writing 📖
   - ### Gaming 🎮
@@ -31,7 +31,7 @@
 
 ---------------------------------------------------------------------------------
 
-## TECH STACK 🧑‍💻
+### TECH STACK 🧑‍💻
 
 --------------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@
 
 ---------------------------------------------------------------------------------
 
-## ⚙️ TECHS & TOOLS
+### ⚙️ TECHS & TOOLS
 
 - ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) Git
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) GitHub
@@ -76,21 +76,21 @@
 
 ---------------------------------------------------------------------------------
 
-## 🖧 OPERATING SYSTEMS
+### 🖧 OPERATING SYSTEMS
 
 - ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) Linux
 - ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) Windows
 
 ---------------------------------------------------------------------------------
 
-## 🧪 VIRTUAL ENVIROMENTS
+### 🧪 VIRTUAL ENVIROMENTS
 
 - ![venv](https://img.shields.io/badge/venv-%23007ACC.svg?style=flat&logo=python&logoColor=white) Python venv
 - ![Uvicorn](https://img.shields.io/badge/Uvicorn-%23339933.svg?style=flat&logo=python&logoColor=white) Uvicorn
 
 ---------------------------------------------------------------------------------
 
-## 🔧 EXTRAS
+### 🔧 EXTRAS
 
 - ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) Markdown
 - ![XML](https://img.shields.io/badge/XML-%23FF0000.svg?style=flat&logo=xml&logoColor=white) XML
@@ -100,7 +100,7 @@
 
 ---------------------------------------------------------------------------------
 
-## 🚀 CURRENTLY LEARNING
+### 🚀 CURRENTLY LEARNING
 
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) TypeScript
 - ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D) Vue.js
