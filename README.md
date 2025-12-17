@@ -107,5 +107,5 @@
 
 ---------------------------------------------------------------------------------
 
-![GitHub Contribution Graph](https://github.com/your-username.png?size=160)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://github.com/EfrenPM.png?size=160)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenPM&layout=compact&theme=radical)
