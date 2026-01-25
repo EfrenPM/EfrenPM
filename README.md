@@ -55,7 +55,9 @@
 
 ### ⚙️ TECHS & TOOLS
 
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23192F6B.svg?style=flat&logo=wordpress&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chart.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23192F6B.svg?style=flat&logo=wordpress&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chart.js&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
@@ -79,7 +81,7 @@
 
 ### 🚀 CURRENTLY LEARNING
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
