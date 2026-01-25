@@ -37,20 +37,20 @@
 
 ### 🖥️ LANGUAGES
 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
 ### 🛠️ FRAMEWORKS
 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006B8F.svg?style=flat&logo=tailwindcss&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000B0F.svg?style=flat&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23006B8F.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat&logo=vue.js&logoColor=4FC08D)
 
 ---------------------------------------------------------------------------------
