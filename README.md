@@ -23,8 +23,6 @@
 
 ### EXPERIENCE 📜
 
-<br>
-
 **1º DAW:** Internship at the prestigious [IAC](https://www.iac.es/) (Canary Islands Institute of Astrophysics). Repositories here: *[Proyecto](https://github.com/EfrenPM/Proyecto_IAC) / [XAMPP](https://github.com/EfrenPM/XAMPP_Practicas_IAC)*
 <br>
 **2º DAW:** Internship at [NTT DATA](https://es.nttdata.com/), one of the world’s top ten IT service providers and consultants, headquartered in Tokyo.
