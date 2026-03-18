@@ -28,6 +28,11 @@
 
 ![Logo_iac](images/logo_iac.png)
 
+**2º DAW:** Internship at NTT DATA, one of the world’s top ten IT service providers and consultants, headquartered in Tokyo.
+<br>
+
+![Logo_nttdata](images/ntt_data.png)
+
 ---------------------------------------------------------------------------------
 
 ### TECH STACK 🧑‍💻
