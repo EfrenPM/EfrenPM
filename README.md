@@ -61,6 +61,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-%230091CE.svg?style=flat&logo=postgresql&logoColor=white)
+![Pentaho Data Integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-%2300A1E0.svg?style=flat&logo=databricks&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
@@ -109,7 +110,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Pentaho Data Integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-%2300A1E0.svg?style=flat&logo=databricks&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
