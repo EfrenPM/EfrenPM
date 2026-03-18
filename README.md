@@ -109,6 +109,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23FF0000.svg?style=flat&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![Pentaho Data Integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-%2300A1E0.svg?style=flat&logo=databricks&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
