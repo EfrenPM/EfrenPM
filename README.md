@@ -76,6 +76,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
+![Pentaho Data Integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-%2300A1E0.svg?style=flat&logo=databricks&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23192F6B.svg?style=flat&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
@@ -106,12 +107,6 @@
 ![Terminal](https://img.shields.io/badge/Terminal-%231DA800.svg?style=flat&logo=gnome-terminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
 ![CMD](https://img.shields.io/badge/CMD-%23000000.svg?style=flat&logo=windows&logoColor=white)
-
----------------------------------------------------------------------------------
-
-### 🚀 CURRENTLY LEARNING
-
-![Pentaho Data Integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-%2300A1E0.svg?style=flat&logo=databricks&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
