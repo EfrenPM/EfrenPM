@@ -1,5 +1,6 @@
 ### Hi there🤘
-#### I am Efrén and I am studying IT Cibersecurity.
+#### I am Efrén and I have a degree in Web Application Development.
+#### I am currently studying Cybersecurity at IT.
 
 ![Fondo](images/fondo.gif)
 
