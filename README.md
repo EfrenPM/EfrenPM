@@ -1,5 +1,5 @@
 ### Hi there🤘
-#### I am Efrén and I am studying DAW (Web Application Development).
+#### I am Efrén and I am studying IT Cibersecurity.
 
 ![Fondo](images/fondo.gif)
 
@@ -47,6 +47,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300A4EF.svg?style=flat&logo=postgresql&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
@@ -83,6 +84,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7A600.svg?style=flat&logo=xampp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chart.js&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---------------------------------------------------------------------------------
 
